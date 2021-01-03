@@ -114,9 +114,16 @@ Chatpter D - The Mach System
   - [Chapter 8: Process Architecture and Control](http://compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes/chapter_08.pdf)
   - [Chapter 9: Interprocess Communication](http://compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes/chapter_09.pdf)
   - [Chapter 10: Threads and the Pthread Library](http://compsci.hunter.cuny.edu/~sweiss/course_materials/unix_lecture_notes/chapter_10.pdf)
-  - [Assignment 1](http://compsci.hunter.cuny.edu/~sweiss/course_materials/cs82010/assignments/assignment_01.pdf)
-  - [Assignment 2](http://compsci.hunter.cuny.edu/~sweiss/course_materials/cs82010/assignments/assignment_02.pdf)
-  - [Assignment 3](http://compsci.hunter.cuny.edu/~sweiss/course_materials/cs82010/assignments/assignment_03.pdf)
+  - [Exercise 1](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/assignments/exercise_01.pdf)
+  - [Assignment 1](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/assignments/assignment_01.pdf)
+  - [Assignment 2](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/assignments/assignment_02.pdf)
+  - [Assignment 3](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/assignments/assignment_03.pdf)
+  - [Assignment 4](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/assignments/assignment_04.pdf)
+  - [Assignment 5](http://compsci.hunter.cuny.edu/~sweiss/course_materials/csci493.66/assignments/assignment_05.pdf)
+  - [Graduate Assignment 1](http://compsci.hunter.cuny.edu/~sweiss/course_materials/cs82010/assignments/assignment_01.pdf)
+  - [Graduate Assignment 2](http://compsci.hunter.cuny.edu/~sweiss/course_materials/cs82010/assignments/assignment_02.pdf)
+  - [Graduate Assignment 3](http://compsci.hunter.cuny.edu/~sweiss/course_materials/cs82010/assignments/assignment_03.pdf)
+  
 * [Command-line Interface Guidlines](https://clig.dev/)
 
 ## compilers
@@ -222,3 +229,6 @@ yes
         - https://www.youtube.com/playlist?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm
         - https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
 - git plumbing and porcelain
+- Programming pearls
+- the mythical man month
+- coders at work
