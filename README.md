@@ -196,6 +196,18 @@ Chatpter D - The Mach System
 - Wittgenstein tracatus
 - turing
 
+## music
+- spectral music
+- http://www.openmusiclabs.com/
+- find that link from video on the_synth (nintendo)
+- sculpting with noise
+- ambient
+- max msp
+
+## visual art
+- ffmpeg glitch
+- nick briz
+
 ## misc
 - play with openbsd
 - automated install process like nixos (reinstall os every time you restart)
