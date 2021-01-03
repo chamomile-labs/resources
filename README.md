@@ -197,7 +197,7 @@ Chatpter D - The Mach System
 - turing
 
 ## music
-- spectral music
+- spectral music (go through tabs copy over links)
 - http://www.openmusiclabs.com/
 - find that link from video on the_synth (nintendo)
 - sculpting with noise
