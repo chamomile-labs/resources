@@ -195,6 +195,13 @@ Chatpter D - The Mach System
 - deleuze
 - Wittgenstein tracatus
 - turing
+- marxists.org/archive/trotsky/works/index.htm
+- [Philosophy of Language](http://danielwharris.com/teaching/364online/)
+- [Bertrand Russell](http://danielwharris.com/teaching/380/)
+- [Metaphysics](http://danielwharris.com/teaching/360/)
+- [Alan Turing: Computing Machinery and Intelligence](http://danielwharris.com/teaching/268online/weeks/12/Turing.pdf)
+- [John Searle: Minds, Brains, and Programs](http://danielwharris.com/teaching/268online/weeks/12/SearleMBP.pdf)
+
 
 ## music
 - spectral music (go through tabs copy over links)
@@ -236,7 +243,7 @@ yes
 - paul graham
 - steve yegge
 - computer architecture playlist
-        - https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq
+        - https://www.you[tube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq
 - algorithms
         - https://www.youtube.com/playlist?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm
         - https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
@@ -244,3 +251,12 @@ yes
 - Programming pearls
 - the mythical man month
 - coders at work
+
+## small reads
+- logging:
+	* [Logging 1](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+	* [Logging 2](https://web.archive.org/web/20120326213929/http://juliusdavies.ca/logging.html)
+- [Joel Spolsky On Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
+- [Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
+- [Philosophers on GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
+- [Robert Sapolsky Language](https://www.youtube.com/watch?v=SIOQgY1tqrU)
