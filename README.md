@@ -18,6 +18,7 @@ organize tomorrow
   + more about bcpl and cpl
   + more about ctss
   + i think rudd canaday ruddcanaday.com had some stuff about bcpl
+  + https://www.multicians.org/fjcc1.html
 - Plan 9
   + http://doc.cat-v.org/plan_9/
   + http://9front.org/
@@ -29,6 +30,14 @@ organize tomorrow
 - Mach Kernel
 - GNU Hurd
 - Finish Operating Systems Dinosaur Book
+- https://ban.ai/multics/doc/
+- https://cs.nyu.edu/rgrimm/teaching/readings/
+- https://www.cs.utexas.edu/users/dahlin/advice.html
+- http://cs.brown.edu/courses/cs167/
+- https://www.sigops.org/
+- http://csl.snu.ac.kr/courses/4190.568/2020-2/2-systems.pdf
+- https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf
+
 ```
 Chapter 9 - Main Memory
 	- Contiguous Memory Allocation, Paging, Structure of the Page Table, Swapping
@@ -142,7 +151,8 @@ Chatpter D - The Mach System
 - read more about dec
 
 ## programing languages
-- in plzoo repo
+- [plzoo](https://github.com/chamomile-labs/plzoo)
+- https://www.sigplan.org/
 
 ## audio programming
 - web audio
@@ -220,11 +230,23 @@ Chatpter D - The Mach System
 - automated install process like nixos (reinstall os every time you restart)
 - find nice desktop environment or pieces of one (CDE)
 - find canonical programs to read
+- maps
 
 # papers
 yes
 - plan 9 papers
 - dennis ritchie papers
+- https://www.cs.cmu.edu/~crary/819-f09/
+- http://cm.bell-labs.com/cm/ms/what/shannonday/shannon1948.pdf
+- http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.72.2622&rep=rep1&type=pdf
+- https://canvas.harvard.edu/courses/34992/assignments/syllabus
+- http://www.cs.cmu.edu/~aldrich/papers/classic/
+- https://www.cs.cmu.edu/~crary/819-f09/Hoare78.pdf
+- http://web.eecs.umich.edu/~mosharaf/Readings/RPC.pdf
+- http://www.pmg.csail.mit.edu/papers/osdi99.pdf
+- https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science
+- https://blog.acolyer.org/
+- https://github.com/papers-we-love/papers-we-love
 
 # reading list
 - K&R
@@ -251,6 +273,7 @@ yes
 - Programming pearls
 - the mythical man month
 - coders at work
+- https://www.oreilly.com/openbook/opensources/book/
 
 ## small reads
 - logging:
@@ -260,3 +283,18 @@ yes
 - [Richard Cook, "Resilience In Complex Adaptive Systems"](https://www.youtube.com/watch?v=PGLYEDpNu60)
 - [Philosophers on GPT-3](https://dailynous.com/2020/07/30/philosophers-gpt-3/)
 - [Robert Sapolsky Language](https://www.youtube.com/watch?v=SIOQgY1tqrU)
+- smdiehl blog posts
+- https://en.wikipedia.org/wiki/Tony_Hoare
+- sqlite guild principles
+- https://www.usenix.org/legacy/event/hotos05/final_papers_backup/red_team/red_html/paper.html
+- https://www.seltzer.com/margo/teaching/CS508.19/background/p264-levin.pdf
+
+## graduate school
+- http://www.cs.umd.edu/~oleary/gradstudy/gradstudy.html
+- https://web.archive.org/web/20050207033513/https://cs.indiana.edu/how.2b/how.2b.html
+- http://www.cs.cmu.edu/~mleone/how-to.html
+- https://www.cs.utexas.edu/users/dahlin/Classes/GradOS/13addsched.html
+- https://www.cs.utexas.edu/users/dahlin/advice.html
+- https://web.archive.org/web/20010816124728/http://www.cs.indiana.edu/mit.research.how.to.html
+- http://lunadong.com/advice.htm
+- 
