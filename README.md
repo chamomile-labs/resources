@@ -194,6 +194,7 @@ Chatpter D - The Mach System
 - thoroughly learn \*roff
 	+ "By convention, the macros have uppercase names to distinguish them from groff requests."
 	+ "Requests are the low-level typesetting commands that form the heart of groff."
+	+ Typesetting commands (visual) vs Document Processing commands (semantic)
 	+ https://www.troff.org/using-ms.pdf
 	
 - reimplement phd as a single header library, extend with separate blog generator
@@ -212,6 +213,9 @@ Chatpter D - The Mach System
 	+ bergson concept of time https://plato.stanford.edu/entries/bergson/
 - Wittgenstein tracatus
 - turing
+	+ https://www.turing.org.uk/sources/index.html
+- chomsky
+	+ https://chomsky.info/
 - marxists.org/archive/trotsky/works/index.htm
 - [Philosophy of Language](http://danielwharris.com/teaching/364online/)
 - [Bertrand Russell](http://danielwharris.com/teaching/380/)
@@ -222,8 +226,9 @@ Chatpter D - The Mach System
 ## physics
 - a reminder of why i wanted to learn physics again: *how does long distance communication work? magic? to understand the internet maybe i can try to understand telephones first cause theyre seemingly magic too. explanations still take stuff for granted, not fundamental enough. start from the beginning? language --> giving a message to a messenger who travels and relays the message --> written language and couriers relaying written information --> MAGIC HERE... Heliographs and using light to send alerts at long distances (ok makes sense but very basic), telegraph sending signals through wires (wow did we really build long ass wires everywhere? huh.. is that feasible? if this was a program that seems like a brute force solution) (YOU ARE HERE 1: how do signals get sent through wires? what are wires?), WIRELESS long distance communication with radio waves (MAGIC! YOU ARE HERE 2: what are radio waves, what are waves? electromagnetism --> forces, electricity, etc)*
 - https://www.wilsonamplifiers.com/blog/a-brief-history-of-long-distance-communication/
+- cell tower?
 - Wikipedia: [Semaphore](https://en.wikipedia.org/wiki/Semaphore), [Optical Communication](https://en.wikipedia.org/wiki/Optical_communication), [Optical Telegraph](https://en.wikipedia.org/wiki/Optical_telegraph#History), [Radio Waves](https://en.wikipedia.org/wiki/Radio_wave)
-- Short Videos: [GCSE Physics - Radio Waves #65](https://www.youtube.com/watch?v=Ldnh0XlMVc0), [How do Radios Work?](https://www.youtube.com/watch?v=drLxfjqZHVo), [Radio Waves](https://www.youtube.com/watch?v=sRX2EY5Ubto), 
+- Assorted Videos: [GCSE Physics - Radio Waves #65](https://www.youtube.com/watch?v=Ldnh0XlMVc0) | [How do Radios Work?](https://www.youtube.com/watch?v=drLxfjqZHVo) |  [Radio Waves](https://www.youtube.com/watch?v=sRX2EY5Ubto) | [How do antennas work?](https://www.youtube.com/watch?v=fSoXIqBlg9M) | [Waves: Light, Sound, and the nature of Reality](https://www.youtube.com/watch?v=Io-HXZTepH4) | [HAM Radio Basics- HAM 101](https://www.youtube.com/watch?v=Ow1hxClR5J8)
 - Lectures: [Matt Anderson - Electromagnetic waves](https://www.youtube.com/watch?v=bwreHReBH2A), [Matt Anderson - Magnetism](https://www.youtube.com/watch?v=MNrrGLzvljk), [Matt Anderson - Electric Charge and Electric Field Part 1](https://www.youtube.com/watch?v=ZOqMQ0H0-0k) <-- LIFO lol
 - Readings: [Robert Penrose - Road to Reality](https://joshnatis.github.io/readings/phys/road%20to%20reality-robert%20penrose.pdf)
 - Unrelated stuff: [Noether's Theorem](https://www.youtube.com/watch?v=CxlHLqJ9I0A), assorted Feynman videos
