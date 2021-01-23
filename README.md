@@ -292,6 +292,8 @@ yes
 - the mythical man month
 - coders at work
 - https://www.oreilly.com/openbook/opensources/book/
+- the art of unix programming esr
+- [https://ptgmedia.pearsoncmg.com/images/9780201615869/samplepages/020161586X.pdf](the practice of programming)
 
 ## small reads
 - logging:
