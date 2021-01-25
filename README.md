@@ -248,6 +248,7 @@ Chatpter D - The Mach System
 ## misc
 - find canonical programs to read
 - maps
+- [The Greeks](http://library.lol/main/188DD18D38A7AAB530075B36E9275A5C)
 
 # papers
 yes
