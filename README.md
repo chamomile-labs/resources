@@ -297,6 +297,8 @@ yes
 - [https://ptgmedia.pearsoncmg.com/images/9780201615869/samplepages/020161586X.pdf](the practice of programming)
 - the unix haters handbook
 - Design and Implementation of the FreeBSD Operating System (McKusick)
+- code complete
+- the pragmattic programmer
 
 ## small reads
 - logging:
