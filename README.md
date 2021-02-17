@@ -135,6 +135,33 @@ Chatpter D - The Mach System
   
 * [Command-line Interface Guidlines](https://clig.dev/)
 
+```
+If you want to learn to be a systems programmer
+then you should follow these steps
+● learn the tools
+	● strace - to trace system calls
+	● ltrace - to trace library calls
+	● gdb - to debug and diagnose programs
+	● valgrind - to find memory errors
+	* test them on common programs, plus on your own code
+● build clones of common systems tools
+● read books on operating systems internals
+	● read a book on operating system design (even though much of the book might be wrong!)
+	● read the Linux kernel documentation, particular the
+	description of the VM and filesystem interfaces
+	● write simple programs to test your knowledge, and use
+	tools like strace to watch the behaviour
+	● read the POSIX or SUS documentation for important calls
+	like open() and mmap()
+	● you must understand the principles of locking and race
+	conditions
+● learn C and at least one scripting language
+	● Learn what makes “good” and “bad” style in these
+	languages
+	● Learn how to avoid common programming errors,
+	such a buffer overruns
+```
+
 ## compilers
 - parser series (copy links on josh8.com/home)
 - gotta read sipser
