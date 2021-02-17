@@ -81,6 +81,14 @@ organize tomorrow
 - deleuze
 	+ capitalism and schizophrenia
 	+ bergson concept of time https://plato.stanford.edu/entries/bergson/
+```
+To really grok ATP I had to read:
+- Freud's Introductory Lectures
+- Some assorted psychoanalytical case studies
+- Laing's Divided Self
+- Hofstadter's I Am a Strange Loop
+- D&G's Anti-Oedipus
+```
 - Wittgenstein tracatus
 - turing
 	+ https://www.turing.org.uk/sources/index.html
