@@ -23,16 +23,6 @@ organize tomorrow
 ## programing languages
 - [plzoo](https://github.com/chamomile-labs/plzoo)
 - https://www.sigplan.org/
-
-## audio programming
-- web audio
-- juce
-- max/msp
-  + dude youtube channel
-- digital signal processing
-- copy info from aberrant dsp email
-- dlang plugin framework
-- copy some youtube channels here
   
 ## tools
 - tracers, profilers, debuggers
@@ -68,6 +58,7 @@ organize tomorrow
 	+ https://www.troff.org/using-ms.pdf
 	
 - reimplement phd as a single header library, extend with separate blog generator
+	+ design BNF grammar and implement based on that
 
 ## graphical programming
 - x windowing system
@@ -113,11 +104,23 @@ To really grok ATP I had to read:
 
 ## music
 - spectral music (go through tabs copy over links)
-- http://www.openmusiclabs.com/
-- find that link from video on the_synth (nintendo)
 - sculpting with noise
 - ambient
 - max msp
+- https://ozzed.net/how-to-make-8-bit-music.shtml
+
+## audio programming
+- web audio
+- juce
+- max/msp
+  + dude youtube channel
+- digital signal processing
+- copy info from aberrant dsp email
+- dlang plugin framework
+- copy some youtube channels here
+- http://www.openmusiclabs.com/learning
+- https://www.musicdsp.org/en/latest/
+
 
 ## visual art
 - ffmpeg glitch
@@ -143,7 +146,7 @@ yes
 - https://en.wikipedia.org/wiki/List_of_important_publications_in_computer_science
 - https://blog.acolyer.org/
 - https://github.com/papers-we-love/papers-we-love
-- upload papers files
+- upload papers files (rip, go through os courses + classic papers search and gather them again?)
 
 # reading list
 - K&R
