@@ -108,6 +108,8 @@ To really grok ATP I had to read:
 - ambient
 - max msp
 - https://ozzed.net/how-to-make-8-bit-music.shtml
+- VCV Rack
+- Open Stage Control
 
 ## audio programming
 - web audio
