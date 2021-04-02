@@ -19,6 +19,9 @@ organize tomorrow
 - read more about xeroc parc
 - read more about sun
 - read more about dec
+- http://gunkies.org/wiki/Main_Page
+- http://www.bitsavers.org/
+- https://minnie.tuhs.org/cgi-bin/utree.pl
 
 ## programing languages
 - [plzoo](https://github.com/chamomile-labs/plzoo)
