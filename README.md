@@ -152,6 +152,22 @@ yes
 - https://blog.acolyer.org/
 - https://github.com/papers-we-love/papers-we-love
 - upload papers files (rip, go through os courses + classic papers search and gather them again?)
+- http://mcvoy.com/lm/papers/SunOS.nfs.pdf
+- http://mcvoy.com/lm/papers/SunOS.shlib.pdf
+- http://mcvoy.com/lm/papers/SunOS.tfs.pdf
+- http://mcvoy.com/lm/papers/SunOS.vfs_arch.pdf
+- http://mcvoy.com/lm/papers/SunOS.vm_arch.pdf
+- http://mcvoy.com/lm/papers/SunOS.vm_impl.pdf
+- http://mcvoy.com/lm/papers/porting-berkeley.pdf
+- http://mcvoy.com/lm/papers/rtlmanifesto.pdf
+- http://mcvoy.com/lm/papers/xfs.pdf
+- https://en.m.wikisource.org/wiki/Lambda_Papers
+- http://web.archive.org/web/20070901123129/http://library.readscheme.org/
+- https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf
+- https://ncatlab.org/nlab/files/WadlerMonads.pdf
+- https://legacy.cs.indiana.edu/ftp/techreports/TR44.pdf
+- https://dl.acm.org/doi/pdf/10.1145/359576.359579
+- https://www.cs.cmu.edu/~crary/819-f09/Landin66.pdf
 
 # reading list
 - K&R
@@ -170,8 +186,8 @@ yes
 - paul graham
 - steve yegge
 - computer architecture playlist
-        - https://www.you[tube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq
-- algorithms
+	+ [https://www.you[tube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq](https://www.you[tube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq)
+ + algorithms
         - https://www.youtube.com/playlist?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm
         - https://www.youtube.com/watch?v=T0yzrZL1py0&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
 - git plumbing and porcelain
