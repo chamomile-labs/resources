@@ -136,6 +136,7 @@ To really grok ATP I had to read:
 - find canonical programs to read
 - maps
 - [The Greeks](http://library.lol/main/188DD18D38A7AAB530075B36E9275A5C)
+- [The Humane Interface Book by Jef Raskin](http://docshare03.docshare.tips/files/20337/203374397.pdf)
 
 # papers
 yes
