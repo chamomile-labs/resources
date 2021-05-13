@@ -37,6 +37,7 @@ organize tomorrow
 
 ## hardware
 - look through hardware books and fill this in
+- FPGA
 
 ## domain specific languages
 - in the brian kernighan sense
@@ -200,7 +201,7 @@ yes
 - the unix haters handbook
 - Design and Implementation of the FreeBSD Operating System (McKusick)
 - code complete
-- the pragmattic programmer
+- the pragmatic programmer
 
 ## small reads
 - logging:
