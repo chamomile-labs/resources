@@ -132,6 +132,25 @@ To really grok ATP I had to read:
 - ffmpeg glitch
 - nick briz
 
+## text, human computer interaction, things and stuff
+- computer lib dream machine
+- literary machines
+- The Future of Text by Frode Alexander Hegland
+- https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
+- https://www.wired.com/1995/06/xanadu/
+- The New Media Reader by Noah Wardrip-Fruin and Nick Montfort
+- Writing space by Jay David Bolter
+- https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm
+- https://www.xanadu.net/
+- https://www.youtube.com/user/TheTedNelson/videos
+- The Dream Machine" by Mitchell Waldrop
+- "Dealers of Lightning: Xerox PARC and the Dawn of the Computer Age"
+- https://monoskop.org/images/0/09/Brand_Stewart_Whole_Earth_Catalog_Fall_1968.pdf
+- https://monoskop.org/Monoskop
+- https://www.amazon.com/Counterculture-Green-Catalog-American-Environmentalism/dp/070061821X
+- https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423/
+- https://en.wikipedia.org/wiki/Whole_Earth_Catalog
+
 ## misc
 - find canonical programs to read
 - maps
