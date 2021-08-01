@@ -10,6 +10,7 @@ organize tomorrow
 - gotta read sipser
 - learn about types
 - text as a universal interface vs types
+	+ > Digressing a bit (but only a bit) talking about IPC: Powershell and CMS PIPELINES both take the approach of more structured pipelines, where pipe contents are not just streams of bytes but can be structured records.  This offers a lot of power, but it also inhibits the ability to arbitrarily compose pipe stages, because you've effectively introduced a type system. On the other hand you can certainly argue that stream-of-bytes pipes ALSO introduce a type system, it's just a completely ad-hoc, undocumented, and fragile one that relies on the cooperation of both ends of the pipe to work at all, and you'd be right. In practice...well, I'd rather use stream-of-bytes, but I am more comfortable in Unix-like environments than Powershell, and my CMS PIPELINES skills are quite rusty now.
 
 ## computing history
 - tuhs and coff
