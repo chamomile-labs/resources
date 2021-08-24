@@ -72,30 +72,7 @@ organize tomorrow
 - ionnis stamos computer vision
 
 ## philosophy
-- bertrand russell
-  + find books and their descriptions
-- deleuze
-	+ capitalism and schizophrenia
-	+ bergson concept of time https://plato.stanford.edu/entries/bergson/
-```
-To really grok ATP I had to read:
-- Freud's Introductory Lectures
-- Some assorted psychoanalytical case studies
-- Laing's Divided Self
-- Hofstadter's I Am a Strange Loop
-- D&G's Anti-Oedipus
-```
-- Wittgenstein tracatus
-- turing
-	+ https://www.turing.org.uk/sources/index.html
-- chomsky
-	+ https://chomsky.info/
-- marxists.org/archive/trotsky/works/index.htm
-- [Philosophy of Language](http://danielwharris.com/teaching/364online/)
-- [Bertrand Russell](http://danielwharris.com/teaching/380/)
-- [Metaphysics](http://danielwharris.com/teaching/360/)
-- [Alan Turing: Computing Machinery and Intelligence](http://danielwharris.com/teaching/268online/weeks/12/Turing.pdf)
-- [John Searle: Minds, Brains, and Programs](http://danielwharris.com/teaching/268online/weeks/12/SearleMBP.pdf)
+- [philosophy](https://github.com/chamomile-labs/philosophy)
 
 ## physics
 - a reminder of why i wanted to learn physics again: *how does long distance communication work? magic? to understand the internet maybe i can try to understand telephones first cause theyre seemingly magic too. explanations still take stuff for granted, not fundamental enough. start from the beginning? language --> giving a message to a messenger who travels and relays the message --> written language and couriers relaying written information --> MAGIC HERE... Heliographs and using light to send alerts at long distances (ok makes sense but very basic), telegraph sending signals through wires (wow did we really build long ass wires everywhere? huh.. is that feasible? if this was a program that seems like a brute force solution) (YOU ARE HERE 1: how do signals get sent through wires? what are wires?), WIRELESS long distance communication with radio waves (MAGIC! YOU ARE HERE 2: what are radio waves, what are waves? electromagnetism --> forces, electricity, etc)*
