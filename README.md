@@ -27,6 +27,13 @@ organize tomorrow
 ## programing languages
 - [plzoo](https://github.com/chamomile-labs/plzoo)
 - https://www.sigplan.org/
+
+## intelligence, consciousness, AI
+- https://web.media.mit.edu/~minsky/papers/steps.html
+- https://plato.stanford.edu/entries/chinese-room/
+- https://web.media.mit.edu/~minsky/
+- http://jmc.stanford.edu/
+- https://www.cs.bham.ac.uk/~axs/
   
 ## tools
 - tracers, profilers, debuggers
