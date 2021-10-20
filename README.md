@@ -107,7 +107,7 @@ organize tomorrow
 - copy some youtube channels here
 - http://www.openmusiclabs.com/learning
 - https://www.musicdsp.org/en/latest/
-
+- https://jatinchowdhury18.medium.com/
 
 ## visual art
 - ffmpeg glitch
