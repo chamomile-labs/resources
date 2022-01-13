@@ -132,6 +132,12 @@ organize tomorrow
 - https://www.amazon.com/Counterculture-Cyberculture-Stewart-Network-Utopianism/dp/0226817423/
 - https://en.wikipedia.org/wiki/Whole_Earth_Catalog
 
+## media and information
+- claude shannon information theory
+- https://historyofinformation.com/index.php
+- marshall mcluhan
+- digital mcluhan
+
 ## misc
 - find canonical programs to read
 - maps
